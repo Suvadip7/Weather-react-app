@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-react-app/static/css/main.da5fff9b.css",
+    "main.js": "/Weather-react-app/static/js/main.028954e3.js",
+    "static/media/imageHill.webp": "/Weather-react-app/static/media/imageHill.81e236ea88b24c1bea7f.webp",
+    "static/media/noaa-ZVhm6rEKEX8-unsplash.jpg": "/Weather-react-app/static/media/noaa-ZVhm6rEKEX8-unsplash.36d9f89eafea50d94f0f.jpg",
+    "index.html": "/Weather-react-app/index.html",
+    "main.da5fff9b.css.map": "/Weather-react-app/static/css/main.da5fff9b.css.map",
+    "main.028954e3.js.map": "/Weather-react-app/static/js/main.028954e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da5fff9b.css",
+    "static/js/main.028954e3.js"
+  ]
+}
