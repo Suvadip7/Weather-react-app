@@ -1,0 +1,19 @@
+.navbar{
+    background-image: url("./image/imageHill.webp");
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.dropdown{
+    margin-left: 80px;
+    padding: 5px;
+    border-radius: 50px;
+}
+
+.fa-cloud-sun{
+    color: darkorange;
+    
+}

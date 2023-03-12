@@ -1,0 +1,29 @@
+
+/* search bar style */
+
+.search-bar{
+    padding: 20px 0;
+}       
+
+.search-bar form{
+    background: #ffff;
+    padding-right: 20px;
+    border-color: black;
+    border-radius: calc(0.5 * 50px); 
+    display: flex;  
+    align-items: center;
+
+}
+
+.search-bar form input{
+    border: none;  
+    outline: none; 
+    box-shadow: none;
+    font-size: 20px;
+    padding: 10px 0;
+    
+}
+
+.search-bar form i{
+    padding: 0 20px;
+}

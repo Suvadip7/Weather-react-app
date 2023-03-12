@@ -1,0 +1,50 @@
+.home{
+    
+    margin:auto;
+    margin-top: 40px;
+    background-image: url("./image/imageHill.webp");
+    
+}
+
+.homeSection{
+    background-image: url("./image/noaa-ZVhm6rEKEX8-unsplash.jpg");
+    height: 700px;
+    margin: auto;
+    border-bottom-left-radius: 10px;   
+    border-bottom-right-radius: 10px;
+}
+
+.fa-location-dot{
+    padding-right: 20px;
+}
+
+.icon{
+    padding-right: 80px;
+}
+
+.information{
+    text-align:center;
+    padding-top: 40px;
+
+}
+
+h1{
+    color: rgb(171, 192, 210);
+}
+
+h2{
+    color: aliceblue;
+    padding: 10px;
+}
+
+h3{
+    color:aliceblue;
+}
+
+hr{
+    height:2px;
+    max-width: 50%;
+    border-width:0;
+    color:rgb(245, 188, 229);
+    background-color:rgb(245, 188, 229);
+}
